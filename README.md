@@ -1,5 +1,5 @@
 #### Hi there 👋 I'm Tuğba.
-##### Welcome my Github Profile.
+##### Welcome to my Github Profile.
 I'm interest in java programing since the day I created this profile. 
 I follow the Java 101 lessons on the Patika.dev platform.
 
