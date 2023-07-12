@@ -2,7 +2,7 @@
 ##### Welcome to my Github Profile.
 I'm interest in java programing since the day I created this profile. 
 I'm continuing my education in computer programming at anatolian university.
-I follow the Java 101 lessons on the Patika.dev platform and some educational videos, books, etc.
+I follow the Java educational videos, books, etc.
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 [![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)](https://www.photoshop.com/)
